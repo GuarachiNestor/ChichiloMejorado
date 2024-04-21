@@ -1,0 +1,71 @@
+
+.auto-style10 {
+	font-family: "Arial Black";
+	font-size: 15pt;
+	color: #BA8047;
+}
+.auto-style11 {
+	font-family: "Arial Black";
+	font-size: x-large;
+	color: #FA8D20;
+}
+.auto-style12 {
+	font-size: x-large;
+	color: #4C90A5;
+	font-family: "Arial Black";
+  text-decoration: underline;
+	
+}
+.auto-style13 {
+  font-family: "Arial Black";
+  
+	color:#615447;
+	font-size: 50pt;
+  
+}	
+
+
+nav {
+  background-color: #a0591767;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color:black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: "Arial Black";
+  
+
+}
+
+
+body {
+    margin: 0;
+  padding: 0;
+  
+  background-color: #F2CDAC;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+.imagenes{
+	width: 400px;
+	height: 400px;
+	object-fit: cover;
+	text-align: center;
+}
